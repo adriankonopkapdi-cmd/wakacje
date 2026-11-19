@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(224, 159, 129);
+    color: aqua;
+    padding-top: 60px;
+}
+
+#zegar {
+    font-size: 64px;
+    font-weight: bold;
+}
+
+#dni {
+    color: aquamarine;
+    font-weight: bold;
+}
